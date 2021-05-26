@@ -1,2 +1,2 @@
 # MvcPracticaJavaScript
-desarrollar un juego de ping pon utilizando java Script como lenguaje de programación.
+desarrollar un juego de ping-pong utilizando java Script como lenguaje de programación.
