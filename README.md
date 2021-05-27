@@ -7,3 +7,4 @@ preguntas:
 *como crear clases por medio de prototype?.
 *que es un contexto en javaScript?.
 *que son los helpers en javaScript?.
+*cuantos canvas.getContext existen en javaScript?.
